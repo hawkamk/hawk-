@@ -71,7 +71,7 @@ def dos2():
 def usage():
 	print (''' \033[92m	gegirdim/
 	valla aga scripti değiştim tasaralayan ben değilim haberiniz olsun valla yani yapan kimse saolsun koymuş git huba . \n
-	usage : python3 hammer.py [-s] [-p] [-t]
+	usage : python garipddos.py [-s] [-p] [-t]
 	-h : h ye basarsan yardım cıkar
 	-s : hedef ip yaz ışte amk
 	-p : port default 80
